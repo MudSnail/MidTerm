@@ -130,3 +130,4 @@ dmypy.json
 
 #OS X Finder
 .DS_Store
+Data/NYPD_data/NYPD_Arrests_Data_Historic.csv
