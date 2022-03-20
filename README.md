@@ -21,9 +21,9 @@ Keeping it simple we can see in the two below plots that the number crimes decre
 
 Using Chi-Square tests and ANOVAs we found there was a significnat relationship between crime severity and NYC Boroughs during Pre-Covid and Covid.
 
-    For instance during Pre-Covid, crime was significantky more likely to be minor (except in the Bronx). While mild crimes occured more in the Bronx and Manhattan. And severe crimes were more likely to occur in the Bronx and Queens.
+For instance during Pre-Covid, crime was significantky more likely to be minor (except in the Bronx). While mild crimes occured more in the Bronx and Manhattan. And severe crimes were more likely to occur in the Bronx and Queens.
 
-    While during Covid, crime was significantky more likely to be minor (except in the Bronx and Manhattan). While mild crimes occured more in Manhattan. And severe crimes were more likely to occur in the Bronx and Queens.
+While during Covid, crime was significantky more likely to be minor (except in the Bronx and Manhattan). While mild crimes occured more in Manhattan. And severe crimes were more likely to occur in the Bronx and Queens.
 
 ### Main Results
 We were able to find clusters in each Borough of New York City. However, due to the nature of crime, clusters will naturally overlap.
