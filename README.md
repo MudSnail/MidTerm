@@ -1,5 +1,6 @@
 # MidTerm
 Lighthouse Labs midterm project.
+This project was done in partnership with [Chantal Deguire](https://github.com/MetaStar2020).
 
 # Problem: 
 Historicailly crimes have been decreasing in New York City. However our main question is where police resources are most needed during major events like pandemics. 
